@@ -1,7 +1,7 @@
 # Hi, I'm Jañabaev Miyirbek 👋
 Software Engineer Students
 # ☺️AboutvMe
-
+🏫 I am student at Muhammad al-Xorezmiy miyrasxorlari
 <!--
 **miyirbekswe/miyirbekswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
