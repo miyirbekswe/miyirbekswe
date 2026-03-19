@@ -3,7 +3,10 @@ Software Engineer Students
 # ☺️AboutvMe
 🏫 I am student at Muhammad al-Xorezmiy miyrasxorlari
 💻I am currently learning HTML and CSS3
+⚡I love solving logic puzzles and buliding "hacker-style" web project
+
 <!--
+
 **miyirbekswe/miyirbekswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
