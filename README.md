@@ -1,4 +1,5 @@
 # Hi, I'm Jañabaev Miyirbek 👋
+Software Engineer Students
 # ☺️AboutvMe
 
 <!--
