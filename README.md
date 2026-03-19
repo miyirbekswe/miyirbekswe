@@ -1,7 +1,10 @@
 # Hi, I'm Jañabaev Miyirbek 👋
-Software Engineer Students
-# ☺️About Me:
-🏫 I am student at Muhammad al-Xorezmiy miyrasxorlari
+
+### Software Engineer Students
+
+### ☺️About Me:
+
+- 🏫 I am student at Muhammad al-Xorezmiy miyrasxorlari
 💻I am currently learning HTML and CSS3
 ⚡I love solving logic puzzles and buliding "hacker-style" web project
 🌍Based in Karakalpakstan,Uzbekistan.
