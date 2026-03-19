@@ -1,4 +1,4 @@
-Hi,I'm Jañabaev Miyirbek 👋
+# Hi, I'm Jañabaev Miyirbek 👋
 
 <!--
 **miyirbekswe/miyirbekswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
